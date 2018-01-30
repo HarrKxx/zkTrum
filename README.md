@@ -1,3 +1,5 @@
+Working in progress
+
 # zktrum
 
 > Hybride GUI for zkSnark
